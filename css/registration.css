@@ -1,0 +1,19 @@
+.navbar {
+  float: right;
+  padding: 10px;
+  margin-top: 20px;
+
+}
+
+.navbar ul {
+  list-style: none;
+}
+
+.navbar ul li {
+  font-size: large;
+  margin: 10px;
+}
+
+.navbar ul li a {
+  color: purple;
+}

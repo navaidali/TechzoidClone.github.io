@@ -1,0 +1,89 @@
+.navbar {
+  float: right;
+  padding: 10px;
+  margin-top: 20px;
+
+}
+
+.navbar ul {
+  list-style: none;
+}
+
+.navbar ul li {
+  font-size: large;
+  margin: 10px;
+}
+
+.navbar ul li a {
+  color: white;
+}
+
+.header {
+  margin-left: 100px;
+}
+
+.services {
+  display: flex;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.box1 {
+  color: white;
+  background-color: rgba(114, 88, 140, 0.3);
+  border: 1px solid #282942;
+  padding: 20px;
+  font-weight: bold;
+  height: 400px;
+}
+
+.box1 hr {
+  border: none;
+  width: 50px;
+  height: 1px;
+  color: white;
+  margin: 0%;
+}
+
+.box1:hover {
+  background-color: #8E43F0;
+}
+
+.why_us {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+}
+
+.why_us h2 {
+  font-size: 50px;
+  color: white;
+  font-weight: bolder;
+}
+
+.innovative {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
+}
+
+i:hover {
+  background-color: rgb(12, 11, 11);
+}
+
+
+.about_us {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+}
+
+.about_us h2 {
+  font-size: 50px;
+  color: white;
+  font-weight: bolder;
+}
